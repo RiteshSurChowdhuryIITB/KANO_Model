@@ -10,7 +10,7 @@ Code for analyzing KANO Model.
 
 **Input params:** path (folder path), start_cols, end_cols (start and end of functional features), mapping (if features to be renamed)
 
-python som727_project.py (If features naming as it is in the responses)
+python som727_project.py (If features naming as it is in the responses, and new features)
 
 python som727_project.py --mapping (If features names are to be mapped)
 
